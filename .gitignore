@@ -1,0 +1,13 @@
+/target/
+
+# fichiers temporaires pour Maven
+target
+
+# fichiers de configuration Eclipse
+.classpath
+.project
+.settings
+
+# fichiers de configuration Itellij IDEA
+.idea
+*.iml
